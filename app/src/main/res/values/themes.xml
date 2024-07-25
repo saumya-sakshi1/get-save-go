@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GetSaveGo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name ="colorPrimary">@color/peach</item>
+    </style>
+
+    <style name="Theme.GetSaveGo" parent="Base.Theme.GetSaveGo" />
+    <style name = "App.customIndicator2" parent = "Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name ="android:color">@color/orangeDark</item>
+    </style>
+    <style name = "App.customIndicator" parent = "Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name ="android:color">#31363F</item>
+    </style>
+</resources>

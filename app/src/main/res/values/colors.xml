@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name ="peachh">#F56D63</color>
+    <color name ="peach">#405D72</color>
+    <color name="combo">#FFF8F3</color>
+    <color name ="orangeDark">#DB3B2F</color>
+    <color name ="unselectedTextColor">#7D7A78</color>
+    <color name ="green">#4CAF50</color>
+    <color name ="red">#F44336</color>
+    <color name ="login_bg">#F8F2F4</color>
+
+    <color name="category1">#4CAF50</color>
+    <color name ="category2">#F44336</color>
+    <color name ="category3">#9C27B0</color>
+    <color name ="category4">#E91E63</color>
+    <color name ="category5">#03A9F4</color>
+    <color name ="category6">#388411</color>
+    <color name ="category8">#F436CE</color>
+    <color name ="category7">#6C9B36</color>
+
+    <color name ="cash">#4E9B51</color>
+    <color name ="bank">#427DAB</color>
+    <color name ="phonepe">#B93128</color>
+    <color name ="paytm">#B22656</color>
+    <color name ="gpay">#FE722D86</color>
+    <color name ="other">#5A5353</color>
+
+</resources>
